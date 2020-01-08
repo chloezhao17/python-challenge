@@ -1,0 +1,2 @@
+Total Months: ,Total profits/losses: ,Average change: ,Greatest increase in profits: ,Greatest decrease in losses: 
+86,38382578,-2288.1976744186045,1926159,-2196167
